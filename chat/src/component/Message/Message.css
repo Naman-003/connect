@@ -1,0 +1,20 @@
+.messageBox{
+    border: 2px solid #9c9cf4;
+    background: #9c9cf4;
+    width: 20%;
+    margin: 20px;
+    border-radius: 0 12px 12px 12px;
+    padding: 9px;
+    /* display: inline-block; */
+    clear: both;
+    color: #00008b;
+
+}
+
+.right{
+    float: right;
+    border-radius: 12px 0 12px 12px ;
+}
+.left{
+    float: left;
+}
